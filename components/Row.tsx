@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import { Movie } from "../../typescript";
+import { Movie } from "../typescript";
 import { ChevronRightIcon, ChevronLeftIcon } from "@heroicons/react/solid";
 import Thumbnail from "./Thumbnail";
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Movie } from '../../typescript'
+import { Movie } from '../typescript'
 import Image from 'next/image'; 
 
 interface Props {
